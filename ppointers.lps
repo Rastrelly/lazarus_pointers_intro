@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ppointers.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upointers.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="80"/>
+        <CursorPos X="8" Y="99"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="40" Column="15" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="42" Column="50" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="29" Column="19" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="30" Column="19" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="31" Column="19" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="59" Column="64" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="35" Column="3" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="36" Column="3" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="37" Column="3" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="66" Column="3" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="81" Column="15" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="14" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="81" Column="8" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="17" Column="23" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="14" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="81" Column="8" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="82" Column="7" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="79" Column="13" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="96" Column="29" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="119" Column="51" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="94" Column="9" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="92" Column="22" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="56" Column="13" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="99" Column="10" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="93" Column="5" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="91" Column="22" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="93" Column="3" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="95" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="upointers.pas"/>
+        <Caret Line="94" TopLine="80"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
